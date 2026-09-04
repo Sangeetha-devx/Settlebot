@@ -1,6 +1,5 @@
 import random
 import string
-import uuid
 from datetime import datetime, timedelta, timezone
 from dataclasses import dataclass, field
 
